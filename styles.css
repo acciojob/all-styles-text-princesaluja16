@@ -3,8 +3,15 @@
 	background-color:purple;
 	border-left: 5px  solid green;
 	padding:10px;
-	font-size:20px;
-	color:white;
+	
+	
 	text-decoration: underline;
+	text-decoration-color:white;
 	
 }
+h1{font-size:20px;
+   color:white;
+   margin:0;
+	
+}
+
